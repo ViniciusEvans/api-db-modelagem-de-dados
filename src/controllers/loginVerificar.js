@@ -1,4 +1,4 @@
-const conexao = require('../conexao');
+const conexao = require('../conection');
 const jwt = require('jsonwebtoken');
 require('dotenv').config()
 
