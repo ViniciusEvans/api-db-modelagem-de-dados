@@ -1,0 +1,28 @@
+{
+    "name": "api-db-modelagem-de-dados",
+    "version": "1.0.0",
+    "description": "![](https://i.imgur.com/xG74tOh.png)",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon src/index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ViniciusEvans/api-db-modelagem-de-dados.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ViniciusEvans/api-db-modelagem-de-dadosissues"
+    },
+    "homepage": "https://github.com/ViniciusEvans/api-db-modelagem-de-dados#readme",
+    "dependencies": {
+        "bcrypt": "^5.0.1",
+        "cors": "^2.8.5",
+        "dotenv": "^14.3.0",
+        "express": "^4.17.1",
+        "jsonwebtoken": "^8.5.1",
+        "nodemon": "^2.0.15",
+        "pg": "^8.7.1"
+    }
+}
